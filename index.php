@@ -10,8 +10,11 @@
 
 	<body>
 		<header>
-			qefasdgasdf
+			<!--qefasdgasdf-->
 		</header>
+		<div>
+		<img src="http://localhost/splashPage/images/Relish-splash.jpg" />
+		</div>
 	</body>
 
 </HTMl>	
